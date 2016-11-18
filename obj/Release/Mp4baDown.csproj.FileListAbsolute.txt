@@ -1,0 +1,9 @@
+D:\我的文档\c#\Mp4baDown\Mp4baDown\bin\Release\Mp4baDown.exe.config
+D:\我的文档\c#\Mp4baDown\Mp4baDown\bin\Release\Mp4baDown.exe
+D:\我的文档\c#\Mp4baDown\Mp4baDown\bin\Release\Mp4baDown.pdb
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.Form1.resources
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.Properties.Resources.resources
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.csproj.GenerateResource.Cache
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.exe
+D:\我的文档\c#\Mp4baDown\Mp4baDown\obj\Release\Mp4baDown.pdb
